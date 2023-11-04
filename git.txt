@@ -1,6 +1,8 @@
 abc
+ddd
 ㅠㅠㅠ
 GCover
+ㄱㄱㄱ
 $ gcovr ./
 위와 같이 text로 터미널에 찍는 명령어
 $ gcovr ./ --html -o result.html
