@@ -1,5 +1,5 @@
 abc
-
+ㅠㅠㅠ
 GCover
 $ gcovr ./
 위와 같이 text로 터미널에 찍는 명령어
